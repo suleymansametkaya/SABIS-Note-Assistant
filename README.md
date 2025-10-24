@@ -1,9 +1,13 @@
-# 🎓 SABİS NOT HESAPLAYICI
+# 🎓 SABİS Not Hesaplayıcı (Chrome Uzantısı)
 
-> **Modern ve kullanıcı dostu tasarımla Sabis öğrencileri için not ortalaması hesaplama eklentisi**
+> 📦 **[Chrome Web Mağazasında şimdi yayında!](https://chromewebstore.google.com/detail/sabis-not-hesaplay%C4%B1c%C4%B1/pnghgpemgbjmihpjlndemjjhhhophdad?authuser=0&hl=tr&pli=1)**  
+> 🎯 Modern tasarımlı, kullanıcı dostu bir **SABİS not ortalaması hesaplama uzantısı**
 
 [![Versiyon](https://img.shields.io/badge/versiyon-1.0-blue.svg)](https://github.com/osmntahir/SabisAverageCalculator)
 [![Lisans](https://img.shields.io/badge/lisans-MIT-green.svg)](LICENSE)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Ziyaret%20Et-orange)](https://chromewebstore.google.com/detail/sabis-not-hesaplay%C4%B1c%C4%B1/pnghgpemgbjmihpjlndemjjhhhophdad?authuser=0&hl=tr&pli=1)
+
+---
 
 ## ✨ Yeni Özellikler (v1.0)
 
@@ -22,9 +26,13 @@
 - **Buy Me Coffee** entegrasyonu hazır (şu anda yorum satırında)
 - Kolay aktivasyon için hazır kod yapısı
 
+---
+
 ## 🚀 Kurulum
 
-Bu uzantıyı tarayıcınıza yüklemek için aşağıdaki adımları izleyin:
+> Uzantıyı mağazadan yüklemek için 👉 [**buraya tıklayın**](https://chromewebstore.google.com/detail/sabis-not-hesaplay%C4%B1c%C4%B1/pnghgpemgbjmihpjlndemjjhhhophdad?authuser=0&hl=tr&pli=1)
+
+Manuel yükleme yapmak isterseniz:
 
 1. **Klasörü İndirin:** İlk olarak, uzantı dosyalarını içeren klasörü bilgisayarınıza indirin.
 
@@ -78,8 +86,6 @@ Bu uzantıyı tarayıcınıza yüklemek için aşağıdaki adımları izleyin:
   </div>
 </div>
 
-
-
 ---
 
 ## Destek Olmak İsterseniz
@@ -95,7 +101,6 @@ Her türlü geri bildirim bizim için çok değerli!
 ## İletişim
 
 - **E-posta:** ozdemirosmantahir@gmail.com
-
 
 ---
 
